@@ -1,0 +1,15 @@
+Partlist exported from C:/Users/Daksh/Desktop/ctd_lab/2018141_2018137/daksh_only.sch at 14-10-2019 10:08
+
+Part Value      Device          Package      Description                       MF MPN OC_FARNELL OC_NEWARK SPICEPREFIX
+C1              C-US025-024X044 C025-024X044 CAPACITOR, American symbol                                    C          
+C2              C-US025-024X044 C025-024X044 CAPACITOR, American symbol                                    C          
+C3              C-US025-024X044 C025-024X044 CAPACITOR, American symbol                                    C          
+IC1  4017N      4017N           DIL16        COUNTER/DIVIDER                                                          
+IC2  4017N      4017N           DIL16        COUNTER/DIVIDER                                                          
+IC3  4049N      4049N           DIL16        Hex inverting BUFFER                                                     
+IC5  LM741P     LM741P          DIL08        OP AMP                                                                   
+Q1              CRYSTALHC49U-H  HC49U-H      CRYSTAL                                  1666973    unknown              
+R1              R-US_0204/5     0204/5       RESISTOR, American symbol                                     R          
+R2              R-US_0204/5     0204/5       RESISTOR, American symbol                                     R          
+SG1  EFBRD22C41 EFBRD22C41      EFBRD22C41   Piezoelectric Acoustic Transducer        unknown    unknown              
+SV2             MA05-1          MA05-1       PIN HEADER                               unknown    unknown              

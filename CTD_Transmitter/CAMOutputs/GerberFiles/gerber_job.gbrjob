@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-10-14T04:39:26Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.3.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "daksh_only"
+        },
+        "Owner": "Daksh18137 Daksh18137 <daksh18137@iiitd.ac.in>",
+        "Size": {
+            "X": 54.59,
+            "Y": 40.31
+        }
+    }
+}
