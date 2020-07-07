@@ -4,4 +4,4 @@ Designed and simulated an analog circuit for the transmitter of a Doppler Sensor
 Use Eagle and LTSpice to open various files
 based on the course project in Integrated Electronics
 Under Prof. Sujay Deb
-IITD
+IIITD
